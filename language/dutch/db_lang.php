@@ -61,7 +61,7 @@ $lang['db_invalid_cache_path'] = 'Ik kan helemaal niet schrijven naar dit cacheb
 $lang['db_table_name_required'] = 'Voor deze actie zou de database graag de naam van een tabel willen weten.  ';
 $lang['db_column_name_required'] = 'Voor deze actie zou de database graag de naam van een kolom willen weten.  ';
 $lang['db_column_definition_required'] = 'Voor deze actie zou de database graag de definitie van een kolom willen weten. Dus..';
-$lang['db_unable_to_set_charset'] = 'To set client connection character set, unable am I.  : %s';
+$lang['db_unable_to_set_charset'] = 'Ik kan de karakterset voor de clientverbinding niet instellen: %s';
 $lang['db_error_heading'] = 'De database heeft opgemerkt dat er een fout onstaan is. Dus..';
 
 /* End of file db_lang.php */
