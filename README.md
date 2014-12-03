@@ -26,13 +26,13 @@ application/config/config
 ** Maintainer **
 ----------------
 
-maintained by Pieter Krul.
+Maintained by Pieter Krul.
 
 ** License **
 -------------
 
 This package has been created using CodeIgniter sources, and is released
-under the `MIT license <LICENSE.txt>`_, of which a copy is included.
+under the included `MIT license <LICENSE.txt>`_.
 
 
 
