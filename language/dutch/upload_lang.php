@@ -39,22 +39,22 @@
  */
 defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
 
-$lang['upload_userfile_not_set'] = 'To find a post variable called userfile unable.  ';
-$lang['upload_file_exceeds_limit'] = 'Your php configuration file the uploaded file exceeds the maximum allowed size in.  Herh herh herh.';
-$lang['upload_file_exceeds_form_limit'] = 'The uploaded file exceeds the maximum size allowed by the submission form.  Yeesssssss.';
-$lang['upload_file_partial'] = 'Only partially uploaded, the file was.  .';
-$lang['upload_no_temp_directory'] = 'Missing, the temporary folder is.  .';
-$lang['upload_unable_to_write_file'] = 'Be written to disk the file could not.  Yeesssssss.';
-$lang['upload_stopped_by_extension'] = 'Stopped by extension, the file upload was.  ';
-$lang['upload_no_file_selected'] = 'Select a file to upload you did not.  ';
-$lang['upload_invalid_filetype'] = 'The filetype you are attempting to upload is allowed not.  ';
-$lang['upload_invalid_filesize'] = 'The file, attempting to upload is larger than the permitted size, you are.  Yes, hmmm.';
-$lang['upload_invalid_dimensions'] = 'Attempting to upload doesn\'t fit into the allowed dimensions, the image you are.  Yeesssssss.';
-$lang['upload_destination_error'] = 'Encountered while attempting to move the uploaded file to the final destination, a problem was.  ';
-$lang['upload_no_filepath'] = 'The upload path appears not to be valid.  Herh herh herh.';
-$lang['upload_no_file_types'] = 'Specified any allowed file types you have not.  Yeesssssss.';
-$lang['upload_bad_filename'] = 'You submitted already exists on the server the file name.  Yeesssssss.';
-$lang['upload_not_writable'] = 'The upload destination folder appears to be writable not.  ';
+$lang['upload_userfile_not_set'] = 'De POST-variabele "userfile" ontbreekt.  ';
+$lang['upload_file_exceeds_limit'] = 'Het bestand is groter dan dat er volgens het PHP-configuratiebestand maximaal toegestaan is. Dus..';
+$lang['upload_file_exceeds_form_limit'] = 'Het bestand is groter dan dat er volgens het formulier maximaal toegestaan is.  Dus..';
+$lang['upload_file_partial'] = 'Het bestand is slechts gedeeltelijk aangekomen.';
+$lang['upload_no_temp_directory'] = 'De tijdelijke folder ontbreekt.';
+$lang['upload_unable_to_write_file'] = 'Het bestand kon niet weggeschreven worden.  Dus..';
+$lang['upload_stopped_by_extension'] = 'De upload is gestopt wegens de extensie daarvan. ';
+$lang['upload_no_file_selected'] = 'Voor het uploaden dient een bestand geselecteerd te worden. ';
+$lang['upload_invalid_filetype'] = 'Het bestandstype wordt niet toegestaan. ';
+$lang['upload_invalid_filesize'] = 'Het bestand dat u probeert te uploaden is groter dan toestaan. Dus..';
+$lang['upload_invalid_dimensions'] = 'Het afbeeldingsbestand past niet binnen de toegestane afmetingen. Dus..';
+$lang['upload_destination_error'] = 'Er is een probleem ontstaan bij het verplaatsen van de upload naar de uiteindelijke bestemming. ';
+$lang['upload_no_filepath'] = 'Het pad voor uploads blijkt niet te kloppen. Dus..';
+$lang['upload_no_file_types'] = 'Er zijn nog geen toegestane bestandstypen opgegeven. Dus..';
+$lang['upload_bad_filename'] = 'De opgegeven bestandsnaam bestaat al op de server. Dus..';
+$lang['upload_not_writable'] = 'Schrijfrechten lijken nog te ontbreken voor de upload-directory.  ';
 
 /* End of file upload_lang.php */
 /* Location: ./application/language/dutch/upload_lang.php */
