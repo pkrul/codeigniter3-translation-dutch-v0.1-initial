@@ -39,11 +39,11 @@
  */
 defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
 
-$lang['terabyte_abbr'] = 'TB';
-$lang['gigabyte_abbr'] = 'GB';
-$lang['megabyte_abbr'] = 'MB';
-$lang['kilobyte_abbr'] = 'kB';
-$lang['bytes'] = 'Bytes';
+$lang['terabyte_abbr']	= 'TB';
+$lang['gigabyte_abbr']	= 'GB';
+$lang['megabyte_abbr']	= 'MB';
+$lang['kilobyte_abbr']	= 'kB';
+$lang['bytes']		= 'Bytes';
 
 /* End of file number_lang.php */
 /* Location: ./application/language/dutch/number_lang.php */
