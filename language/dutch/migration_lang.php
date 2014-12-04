@@ -39,14 +39,14 @@
  */
 defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
 
-$lang['migration_none_found'] = 'Found, no migrations were.  ';
-$lang['migration_not_found'] = 'No migration, found with the version number, could be.  Yes, hmmm: %s.';
-$lang['migration_sequence_gap'] = 'Gap in the migration sequence near version number, there is.  Herh herh herh.: %s.';
-$lang['migration_multiple_version'] = 'Multiple migrations with the same version number, there are.  : %s.';
-$lang['migration_class_doesnt_exist'] = 'The migration class "%s", found it could I not.';
-$lang['migration_missing_up_method'] = 'The migration class "%s" an "up" method, missing it is.';
-$lang['migration_missing_down_method'] = 'The migration class "%s" a "down" method, missing it is.';
-$lang['migration_invalid_filename'] = 'An invalid filename, migration "%s" has.';
+$lang['migration_none_found'] = 'Er is geen enkele migratie gevonden.';
+$lang['migration_not_found'] = 'Een migratie met dit versienummer is onvindbaar. Ja? Dus.. %s.';
+$lang['migration_sequence_gap'] = 'Er ontbreekt een deel in de migratiereeks omstreeks dit versienummer. Dus..: %s.';
+$lang['migration_multiple_version'] = 'Er zijn meerdere migraties met hetzelfde versienummer: %s.';
+$lang['migration_class_doesnt_exist'] = 'De migratie-class "%s" kon niet gevonden worden.';
+$lang['migration_missing_up_method'] = 'De migratie-class "%s" mist een "up"-methode';
+$lang['migration_missing_down_method'] = 'De migratie-class "%s" mist een "down"-methode.';
+$lang['migration_invalid_filename'] = 'De migratie "%s" heeft een ongeldige bestandsnaam.';
 
 /* End of file migration_lang.php */
 /* Location: ./application/language/dutch/migration_lang.php */

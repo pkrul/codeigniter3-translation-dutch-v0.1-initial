@@ -50,16 +50,16 @@ $lang['profiler_memory_usage'] = 'MEMORY USAGE';
 $lang['profiler_config'] = 'CONFIG VARIABLES';
 $lang['profiler_session_data'] = 'SESSION DATA';
 $lang['profiler_headers'] = 'HTTP HEADERS';
-$lang['profiler_no_db'] = 'Currently loaded database driver is not.  ';
-$lang['profiler_no_queries'] = 'Run, no queries were.  ';
-$lang['profiler_no_post'] = 'POST data, none exists';
-$lang['profiler_no_get'] = 'GET data, none exists';
-$lang['profiler_no_uri'] = 'URI data, none exists';
-$lang['profiler_no_memory'] = 'Memory Usage,  unavailable it is';
-$lang['profiler_no_profiles'] = 'No Profile data - all Profiler sections, disabled they have been.';
-$lang['profiler_section_hide'] = 'Hide';
-$lang['profiler_section_show'] = 'Show';
-$lang['profiler_seconds'] = 'seconds';
+$lang['profiler_no_db'] = 'Er is op dit moment geen databasedriver geladen.  ';
+$lang['profiler_no_queries'] = 'Er werden geen queries uitgevoerd.  ';
+$lang['profiler_no_post'] = 'Er is geen POST-data aangetroffen';
+$lang['profiler_no_get'] = 'Er is geen GET-data aangetroffen';
+$lang['profiler_no_uri'] = 'Er is geen URI-data aangetroffen';
+$lang['profiler_no_memory'] = 'Geheugengebruik is niet beschikbaar';
+$lang['profiler_no_profiles'] = 'Er is geen Profile-data - alle Profiler-secties zijn uitgeschakeld.';
+$lang['profiler_section_hide'] = 'Verberg';
+$lang['profiler_section_show'] = 'Laat zien';
+$lang['profiler_seconds'] = 'seconden';
 
 /* End of file profiler_lang.php */
 /* Location: ./application/language/dutch/profiler_lang.php */

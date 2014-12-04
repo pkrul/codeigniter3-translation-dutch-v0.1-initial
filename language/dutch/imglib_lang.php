@@ -39,24 +39,24 @@
  */
 defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
 
-$lang['imglib_source_image_required'] = 'Specify a source image in your preferences, you must.  Herh herh herh..';
-$lang['imglib_gd_required'] = 'The GD image library for this feature required is.';
-$lang['imglib_gd_required_for_props'] = 'The GD image library in order to determine the image properties, must your server support.';
-$lang['imglib_unsupported_imagecreate'] = 'The GD function required to process this type of image, your server supports it not.';
-$lang['imglib_gif_not_supported'] = 'GIF images supported due to licensing restrictions they are often not . Use JPG or PNG images instead, you might have to.';
-$lang['imglib_jpg_not_supported'] = 'JPG images not supported they are.';
-$lang['imglib_png_not_supported'] = 'PNG images not supported they are.';
-$lang['imglib_jpg_or_png_required'] = 'The image resize protocol specified in your preferences, with JPEG or PNG image types works it only.';
-$lang['imglib_copy_error'] = 'While attempting to replace the file, encountered an error was. Your file directory writable must it be.';
-$lang['imglib_rotate_unsupported'] = 'Image rotation your server does not appear to support.';
-$lang['imglib_libpath_invalid'] = 'The path to your image library correct it is not. The correct path in your image preferences set must be. Yessss.';
-$lang['imglib_image_process_failed'] = 'Failed is the image processing. Verify that your server supports the chosen protocol, and that the path to your image library is correct, you must.';
-$lang['imglib_rotation_angle_required'] = 'To rotate the image, an angle of rotation is required.';
-$lang['imglib_writing_failed_gif'] = 'GIF image.';
-$lang['imglib_invalid_path'] = 'The path to the image correct is not. Hmmmmm.';
-$lang['imglib_copy_failed'] = 'Failed, the image copy routine.';
-$lang['imglib_missing_font'] = 'A font to use unable to be found.';
-$lang['imglib_save_failed'] = 'The image saved it could not. Make sure the image and file directory are writable, you must.';
+$lang['imglib_source_image_required'] = 'U dient een afbeeldingsbron bij de voorkeuren op te geven. Dus..';
+$lang['imglib_gd_required'] = 'De GD image library is vereist voor deze optie.';
+$lang['imglib_gd_required_for_props'] = 'De server dient de GD image library te ondersteunen om afbeeldingseigenschappen weer te kunnen geven.';
+$lang['imglib_unsupported_imagecreate'] = 'De benodigde GD functie die nodig is om dit type afbeeldingen te vewerken wordt niet door de server ondersteund.';
+$lang['imglib_gif_not_supported'] = 'GIF-afbeeldingen worden veelal niet ondersteund vanwege licensierestricties. U zou JPG- of PNG-afbeeldingen kunnen gebruiken.';
+$lang['imglib_jpg_not_supported'] = 'JPG-afbeeldingen worden niet ondersteund.';
+$lang['imglib_png_not_supported'] = 'PNG-afbeeldingen worden niet ondersteund.';
+$lang['imglib_jpg_or_png_required'] = 'Het in de voorkeuren opgegeven protocol voor het schalen van afbeeldingen is alleen geschikt voor JPEG en PNG-afbeeldingen.';
+$lang['imglib_copy_error'] = 'Er is een fout opgetreden tijdens het vervangen van het bestand. Controleer de bestandsrechten voor de directory.';
+$lang['imglib_rotate_unsupported'] = 'Het roteren van afbeeldingen wordt blijkbaar niet door de server ondersteund.';
+$lang['imglib_libpath_invalid'] = 'Het pad naar de image library is niet correct. Stel het juiste pad in bij de afbeeldingsvoorkeuren. Ja?';
+$lang['imglib_image_process_failed'] = 'Het verwerken van de afbeelding is mislukt. Controleer of de server het gekozen protocol ondersteunt, en of het pad naar de image library klopt.';
+$lang['imglib_rotation_angle_required'] = 'Om te afbeelding te kunnen roteren, dient een rotatiehoek opgegeven te worden.';
+$lang['imglib_writing_failed_gif'] = 'GIF-afbeelding';
+$lang['imglib_invalid_path'] = 'Het pad naar de afbeelding klopt niet. Dus..';
+$lang['imglib_copy_failed'] = 'De kopiëer-routine werkte niet.';
+$lang['imglib_missing_font'] = 'Ik kon geen bruikbaar lettertype vinden.';
+$lang['imglib_save_failed'] = 'Het opslaan van de afbeelding is mislukt. Controleer of er voldoende rechten zijn om te kunnen schrijven naar de bestandsdirectories';
 
 /* End of file imglib_lang.php */
 /* Location: ./application/language/dutch/imglib_lang.php */
