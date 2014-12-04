@@ -39,18 +39,18 @@
  */
 defined('BASEPATH') OR exit('Directe toegang tot scripts is niet toegestaan');
 
-$lang['ftp_no_connection'] = 'To locate a valid connection id unable.  Make sure, connected before performing any file routines, you are.  Herh herh herh.';
-$lang['ftp_unable_to_connect'] = 'Connect to your FTP server using the supplied hostname, I cannot.';
-$lang['ftp_unable_to_login'] = 'Login to your FTP server, I cannot. Please check your username and password.';
-$lang['ftp_unable_to_mkdir'] = 'Create the directory you have specified, I cannot.';
-$lang['ftp_unable_to_changedir'] = 'Change directories, I cannot.';
-$lang['ftp_unable_to_chmod'] = 'Set file permissions, I cannot. Check your path you must.';
-$lang['ftp_unable_to_upload'] = 'Upload the specified file, I cannot. Check your path you must.';
-$lang['ftp_unable_to_download'] = 'Download the specified file, I cannot. Check your path you must.';
-$lang['ftp_no_source_file'] = 'Locate the source file, I cannot. Check your path you must.';
-$lang['ftp_unable_to_rename'] = 'Rename the file, I cannot.';
-$lang['ftp_unable_to_delete'] = 'Delete the file, I cannot.';
-$lang['ftp_unable_to_move'] = 'Move the file, I cannot. Make sure the destination directory exists you must.';
+$lang['ftp_no_connection'] = 'Ik kan geen werkende verbinding vinden. Zorg dat deze opgebouwd is voordat routines worden uitgevoerd. Dus..';
+$lang['ftp_unable_to_connect'] = 'Ik kan met de opgegeven hostnaam geen FTP-verbinding opbouwen.';
+$lang['ftp_unable_to_login'] = 'Ik kan mijzelf niet aanmelden bij de FTP server. Controleer a.u.b. de gebruikersnaam en wachtwoord.';
+$lang['ftp_unable_to_mkdir'] = 'Ik kan de opgegeven directory niet aanmaken.';
+$lang['ftp_unable_to_changedir'] = 'Ik kan niet van directory veranderen.';
+$lang['ftp_unable_to_chmod'] = 'Ik kan geen bestandspermissies instellen. Controleer a.u.b. het bestandspad.';
+$lang['ftp_unable_to_upload'] = 'Ik kan het opgegeven bestand niet uploaden. Controleer a.u.b. het bestandspad.';
+$lang['ftp_unable_to_download'] = 'Ik kan het opgegeven bestand niet downloaden. Controleer a.u.b. het bestandspad.';
+$lang['ftp_no_source_file'] = 'Ik kan het bronbestand niet vinden. Controleer a.u.b. het bestandspad.';
+$lang['ftp_unable_to_rename'] = 'Ik kan het bestand niet hernoemen.';
+$lang['ftp_unable_to_delete'] = 'Ik kan het bestand niet verwijderen.';
+$lang['ftp_unable_to_move'] = 'Ik kan het bestand niet verplaatsen. Controleer of het bestemmingspad bestaat.';
 
 /* End of file ftp_lang.php */
 /* Location: ./application/language/dutch/ftp_lang.php */
