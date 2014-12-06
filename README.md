@@ -32,7 +32,7 @@ Maintained by Pieter Krul.
 -------------
 
 This package has been created using CodeIgniter sources, and is released
-under the included `MIT license <LICENSE.txt>`_.
+under the included `MIT license <LICENSE.txt>`.
 
 
 
